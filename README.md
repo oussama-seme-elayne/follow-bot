@@ -5,4 +5,4 @@ How to use InstaBot :
 
 pip install selenium
 
-
+and run python follow.py
