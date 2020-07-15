@@ -93,7 +93,7 @@ class InstagramBot:
 			time.sleep(2)
 
 
-insta = InstagramBot('richhumanstyle', 'Xzebi1234')
+insta = InstagramBot('your account username', 'your password')
 insta.login()
 insta.findMyFollowers(10)
 insta.followTheirFollowers(50)
